@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/desafioJava" mode="merge"/>
+    <filter root="/content/desafioJava" mode="merge"/>
+    <filter root="/content/dam/desafioJava/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/desafioJava" mode="merge"/>
+</workspaceFilter>
